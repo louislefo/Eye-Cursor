@@ -1,8 +1,10 @@
-# IrisPoint & BlinkClick 👁️🖱️
+# Eye-Cursor
 
 **Control your mouse with your eyes.**
 
-IrisPoint & BlinkClick is a contactless human-computer interaction system that allows you to control the mouse cursor using eye movements and click using blink gestures. Built with Python, OpenCV, and MediaPipe.
+Eye-Cursor is a contactless human-computer interaction (HCI) system that allows users to control the mouse cursor through eye movements and trigger clicks using blink gestures. Developed with Python, OpenCV, and MediaPipe, this software transforms a standard built-in PC camera into an intelligent input device. It requires no external hardware, infrared sensors, or expensive equipment, making intuitive, hands-free navigation accessible to anyone with a simple webcam.
+
+![Initialisation Demo](image/image.png)
 
 ## ✨ Features
 
@@ -26,7 +28,7 @@ IrisPoint & BlinkClick is a contactless human-computer interaction system that a
     pip install -r requirements.txt
     ```
 
-## 🚀 Usage
+##  Usage
 
 1.  **Run the application:**
     ```bash
